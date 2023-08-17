@@ -109,7 +109,7 @@ body{
     margin-top: 2rem;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1132px) {
     body{
         background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
     }
